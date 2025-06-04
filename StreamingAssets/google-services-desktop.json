@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "807573670294",
+    "firebase_url": "https://unitymathsbearing713-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unitymathsbearing713",
+    "storage_bucket": "unitymathsbearing713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807573670294:android:f07a5c4d7fe3bf445ff5b7",
+        "android_client_info": {
+          "package_name": "com.ming.unitymathsbearing713"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxroipja5JNPW77qwYkalgJ7tRwNsvA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
